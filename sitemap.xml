@@ -42,9 +42,9 @@
 
   <!-- Damla Memory -->
   <url><loc>https://softnb.github.io/DamlaMemory/</loc></url>
-
-  <!-- Damla Slide Puzzle -->
-  <url><loc>https://softnb.github.io/DamlaSlidePuzzle/</loc></url>
+  <url><loc>https://softnb.github.io/DamlaMemory/indexTr.html</loc></url>
+  <url><loc>https://softnb.github.io/DamlaMemory/NB_DamlaMemory_PrivacyPolicy.html</loc></url>
+  <url><loc>https://softnb.github.io/DamlaMemory/TermConditions.html</loc></url>
 
   <!-- Damla oyunlarının ortak gizlilik politikası -->
   <url><loc>https://softnb.github.io/privacypolicy.html</loc></url>
