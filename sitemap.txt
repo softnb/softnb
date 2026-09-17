@@ -1,0 +1,12 @@
+https://softnb.netlify.app/
+https://softnb.netlify.app/index.html
+https://softnb.netlify.app/privacypolicy.html
+https://softnb.netlify.app/DamlaMemory/index.html
+https://softnb.netlify.app/DamlaSlidePuzzle/index.html
+https://softnb.netlify.app/BubbleCatch/index.html
+https://softnb.netlify.app/Sudoku/index.html
+https://softnb.netlify.app/Sudoku/indexTr.html
+https://softnb.netlify.app/NbBlock/indexTr.html
+https://softnb.netlify.app/NBBlock/index.html
+https://softnb.netlify.app/NBdropthenumber/indexTr.html
+https://softnb.netlify.app/NBdropthenumber/index.html
